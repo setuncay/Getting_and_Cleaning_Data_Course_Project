@@ -28,3 +28,5 @@ This project contains run_analysis.R that does the following.
 2. Run load_analysis.R within R. Please note that this script will create a new folder called 'data' (if it doesn't exist) in current working directory and download the compressed data file into this folder. Upon download, the script will automatically extract the contents of the compressed file within 'data' folder.
 3. load_analysis.R will produce 'tidy_data.txt' in current working directory containing the tidy data set as required.
 
+
+
